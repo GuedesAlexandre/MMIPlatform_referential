@@ -1,0 +1,57 @@
+[
+  {
+    "nom": "R.101 AUDIT Communication numérique",
+    "promo": "MMI01",
+    "semestre": "1",
+    "ueName": "UE-COMPRENDRE",
+    "coeff": ""
+  },
+  {
+    "nom": "R.103 Ergonomie et accessibilité",
+    "promo": "MMI01",
+    "semestre": "1",
+    "ueName": "UE-COMPRENDRE"
+  },
+  {
+    "nom": "R.104 Culture numérique",
+    "promo": "MMI01",
+    "semestre": "1",
+    "ueName": "UE-COMPRENDRE"
+  },
+  {
+    "nom": "R.105 Stratégie de communication",
+    "promo": "MMI01",
+    "semestre": "1",
+    "ueName": "UE-COMPRENDRE"
+  },
+  {
+    "nom": "R.109 Culture artistique",
+    "promo": "MMI01",
+    "semestre": "1",
+    "ueName": "UE-COMPRENDRE"
+  },
+  {
+    "nom": "R.114 Représentation et traitement de l'information",
+    "promo": "MMI01",
+    "semestre": "1",
+    "ueName": "UE-COMPRENDRE"
+  },
+  {
+    "nom": "R.116 Economie des droits du numérique",
+    "promo": "MMI01",
+    "semestre": "1",
+    "ueName": "UE-COMPRENDRE"
+  },
+  {
+    "nom": "Adaptation de parcours Mathématiques",
+    "promo": "MMI01",
+    "semestre": "1",
+    "ueName": "UE-COMPRENDRE"
+  },
+  {
+    "nom": "SAE.102 Recommandation de Communication Numérique ",
+    "promo": "MMI01",
+    "semestre": "2",
+    "ueName": "UE-CONCEVOIR"
+  }
+]
