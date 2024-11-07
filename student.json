@@ -1,0 +1,98 @@
+[
+  {
+    "nom": "Guillard",
+    "prenom": "Glenn",
+    "groupe": "TD1",
+    "promo":"MMI3",
+  },
+  {
+    "nom": "Peuplu",
+    "prenom": "Jean",
+    "groupe": "TD1",
+    "promo":"MMI3",
+  },
+    {
+    "nom": "Lyse",
+    "prenom": "Ana",
+    "groupe": "TD1",
+    "promo":"MMI3",
+  },
+     {
+    "nom": "Pote",
+    "prenom": "Jack",
+    "groupe": "TD1",
+    "promo":"MMI3",
+  },
+     {
+    "nom": "Hate",
+    "prenom": "Tom",
+    "groupe": "TD1",
+    "promo":"MMI3",
+  },
+      {
+    "nom": "Capsul",
+    "prenom": "Jean-Claude",
+    "groupe": "TD1",
+    "promo":"MMI3",
+  },
+      {
+    "nom": "Milou",
+    "prenom": "Kitty",
+    "groupe": "TD1",
+    "promo":"MMI3",
+  },
+    {
+    "nom": "Henry",
+    "prenom": "Roger",
+    "groupe": "TD1",
+    "promo":"MMI3",
+  },
+     {
+    "nom": "Faupin",
+    "prenom": "Mariane",
+    "groupe": "TD1",
+    "promo":"MMI3",
+  },
+     {
+    "nom": "Etienne",
+    "prenom": "Samuel",
+    "groupe": "TD1",
+    "promo":"MMI3",
+  },
+     {
+    "nom": "Guedes",
+    "prenom": "Alexandre",
+    "groupe": "TD2",
+    "promo":"MMI3",
+  },
+   {
+    "nom": "Trump",
+    "prenom": "Donald",
+    "groupe": "TD2",
+    "promo":"MMI3",
+  },
+     {
+    "nom": "Lecam",
+    "prenom": "Steven",
+    "groupe": "TD2",
+    "promo":"MMI3",
+  },
+    {
+    "nom": "Bic",
+    "prenom": "Brigitte",
+    "groupe": "TD2",
+    "promo":"MMI3",
+  },
+    {
+    "nom": "Cocotte",
+    "prenom": "Calin",
+    "groupe": "TD2",
+    "promo":"MMI3",
+  },
+      {
+    "nom": "",
+    "prenom": "",
+    "groupe": "TD2",
+    "promo":"MMI3",
+  },
+]
