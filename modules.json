@@ -4,54 +4,517 @@
     "promo": "MMI01",
     "semestre": "1",
     "ueName": "UE-COMPRENDRE",
-    "coeff": ""
+    "coeff": 8
   },
   {
     "nom": "R.103 Ergonomie et accessibilité",
     "promo": "MMI01",
     "semestre": "1",
-    "ueName": "UE-COMPRENDRE"
+    "ueName": "UE-COMPRENDRE",
+    "coeff": 3
   },
   {
     "nom": "R.104 Culture numérique",
     "promo": "MMI01",
     "semestre": "1",
-    "ueName": "UE-COMPRENDRE"
+    "ueName": "UE-COMPRENDRE",
+    "coeff": 3
   },
   {
-    "nom": "R.105 Stratégie de communication",
+    "nom": "R.105 Stratégie de communication & Marketing",
     "promo": "MMI01",
     "semestre": "1",
-    "ueName": "UE-COMPRENDRE"
+    "ueName": "UE-COMPRENDRE",
+    "coeff": 2
   },
   {
     "nom": "R.109 Culture artistique",
     "promo": "MMI01",
     "semestre": "1",
-    "ueName": "UE-COMPRENDRE"
+    "ueName": "UE-COMPRENDRE",
+    "coeff": 1
   },
   {
     "nom": "R.114 Représentation et traitement de l'information",
     "promo": "MMI01",
     "semestre": "1",
-    "ueName": "UE-COMPRENDRE"
+    "ueName": "UE-COMPRENDRE",
+    "coeff": 1
   },
   {
     "nom": "R.116 Economie des droits du numérique",
     "promo": "MMI01",
     "semestre": "1",
-    "ueName": "UE-COMPRENDRE"
+    "ueName": "UE-COMPRENDRE",
+    "coeff": 2
   },
   {
     "nom": "Adaptation de parcours Mathématiques",
     "promo": "MMI01",
     "semestre": "1",
-    "ueName": "UE-COMPRENDRE"
+    "ueName": "UE-COMPRENDRE",
+    "coeff": 1
   },
   {
     "nom": "SAE.102 Recommandation de Communication Numérique ",
     "promo": "MMI01",
+    "semestre": "1",
+    "ueName": "UE-CONCEVOIR",
+    "coeff": 6
+  },
+  {
+    "nom": "R.101 Anglais",
+    "promo": "MMI01",
+    "semestre": "1",
+    "ueName": "UE-CONCEVOIR",
+    "coeff": 1
+  },
+  {
+    "nom": "R.102 Anglais Renforcement",
+    "promo": "MMI01",
+    "semestre": "1",
+    "ueName": "UE-CONCEVOIR",
+    "coeff": 1
+  },
+  {
+    "nom": "R.105 Stratégie de communication & Marketing",
+    "promo": "MMI01",
+    "semestre": "1",
+    "ueName": "UE-CONCEVOIR",
+    "coeff": 3
+  },
+  {
+    "nom": "R.106 Projet de Communication Numérique",
+    "promo": "MMI01",
+    "semestre": "1",
+    "ueName": "UE-CONCEVOIR",
+    "coeff": 6
+  },
+  {
+    "nom": "R.107 Projet de Communication Numérique",
+    "promo": "MMI01",
+    "semestre": "1",
+    "ueName": "UE-CONCEVOIR",
+    "coeff": 6
+  },
+  {
+    "nom": "R.108 Projet de Communication Numérique",
+    "promo": "MMI01",
+    "semestre": "1",
+    "ueName": "UE-CONCEVOIR",
+    "coeff": 6
+  },
+  {
+    "nom": "R.110 Projet de Communication Numérique",
+    "promo": "MMI01",
+    "semestre": "1",
+    "ueName": "UE-CONCEVOIR",
+    "coeff": 6
+  },
+  {
+    "nom": "R.111 Projet de Communication Numérique",
+    "promo": "MMI01",
+    "semestre": "1",
+    "ueName": "UE-CONCEVOIR",
+    "coeff": 6
+  },
+  {
+    "nom": "R.112 Projet de Communication Numérique",
+    "promo": "MMI01",
+    "semestre": "1",
+    "ueName": "UE-CONCEVOIR",
+    "coeff": 6
+  },
+  {
+    "nom": "R.113 Projet de Communication Numérique",
+    "promo": "MMI01",
+    "semestre": "1",
+    "ueName": "UE-CONCEVOIR",
+    "coeff": 6
+  },
+  {
+    "nom": "R.115 Projet de Communication Numérique",
+    "promo": "MMI01",
+    "semestre": "1",
+    "ueName": "UE-CONCEVOIR",
+    "coeff": 6
+  },
+  {
+    "nom": "R.106 Expression, Communication et Rhétorique",
+    "promo": "MMI01",
+    "semestre": "1",
+    "ueName": "UE-CONCEVOIR",
+    "coeff": 2
+  },
+  {
+    "nom": "SAE.103 Design graphique",
+    "promo": "MMI01",
+    "semestre": "1",
+    "ueName": "UE-EXPRIMER",
+    "coeff": 6
+  },
+  {
+    "nom": "R.104 Production Audiovisuelle",
+    "promo": "MMI01",
+    "semestre": "1",
+    "ueName": "UE-EXPRIMER",
+    "coeff": 6
+  },
+  {
+    "nom": "R.101 Anglais",
+    "promo": "MMI01",
+    "semestre": "1",
+    "ueName": "UE-EXPRIMER",
+    "coeff": 1
+  },
+  {
+    "nom": "R.107 Ecriture Multimédia et narration",
+    "promo": "MMI01",
+    "semestre": "1",
+    "ueName": "UE-EXPRIMER",
+    "coeff": 3
+  },
+  {
+    "nom": "R.108 Production Graphique ",
+    "promo": "MMI01",
+    "semestre": "1",
+    "ueName": "UE-EXPRIMER",
+    "coeff": 4
+  },
+  {
+    "nom": "R.109 Culture artistique",
+    "promo": "MMI01",
+    "semestre": "1",
+    "ueName": "UE-EXPRIMER",
+    "coeff": 2
+  },
+  {
+    "nom": "R.110 Production Audio & Vidéo",
+    "promo": "MMI01",
+    "semestre": "1",
+    "ueName": "UE-EXPRIMER",
+    "coeff": 4
+  },
+  {
+    "nom": "R.114 Représentation et traitement de l'information",
+    "promo": "MMI01",
+    "semestre": "1",
+    "ueName": "UE-EXPRIMER",
+    "coeff": 3
+  },
+  {
+    "nom": "SAE.105 Produire un site Web",
+    "promo": "MMI01",
+    "semestre": "1",
+    "ueName": "UE-DEVELOPPER",
+    "coeff": 12
+  },
+  {
+    "nom": "R.111 Intégration",
+    "promo": "MMI01",
+    "semestre": "1",
+    "ueName": "UE-DEVELOPPER",
+    "coeff": 5
+  },
+  {
+    "nom": "R.112 Developpement Web",
+    "promo": "MMI01",
+    "semestre": "1",
+    "ueName": "UE-DEVELOPPER",
+    "coeff": 4
+  },
+  {
+    "nom": "R.113 Hébergement ",
+    "promo": "MMI01",
+    "semestre": "1",
+    "ueName": "UE-DEVELOPPER",
+    "coeff": 3
+  },
+  {
+    "nom": "SAE.106 Gestion de projet pour une recommandation de communication numérique",
+    "promo": "MMI01",
+    "semestre": "1",
+    "ueName": "UE-ENTREPRENDRE",
+    "coeff": 10
+  },
+  {
+    "nom": "R.101 Anglais",
+    "promo": "MMI01",
+    "semestre": "1",
+    "ueName": "UE-ENTREPRENDRE",
+    "coeff": 1
+  },
+  {
+    "nom": "R.102 Anglais renforcement",
+    "promo": "MMI01",
+    "semestre": "1",
+    "ueName": "UE-ENTREPRENDRE",
+    "coeff": 1
+  },
+  {
+    "nom": "R.106 Expression, communication et rhétorique ",
+    "promo": "MMI01",
+    "semestre": "1",
+    "ueName": "UE-ENTREPRENDRE",
+    "coeff": 2
+  },
+  {
+    "nom": "R.115 : Gestion de Projet ",
+    "promo": "MMI01",
+    "semestre": "1",
+    "ueName": "UE-ENTREPRENDRE",
+    "coeff": 3
+  },
+  {
+    "nom": "R.116 Economie, gestion et droit du numérique",
+    "promo": "MMI01",
+    "semestre": "1",
+    "ueName": "UE-ENTREPRENDRE",
+    "coeff": 1
+  },
+  {
+    "nom": "R.117 PPP ",
+    "promo": "MMI01",
+    "semestre": "1",
+    "ueName": "UE-ENTREPRENDRE",
+    "coeff": 4
+  },
+  {
+    "nom": "SAE.201 Exploration des usages",
+    "promo": "MMI01",
     "semestre": "2",
-    "ueName": "UE-CONCEVOIR"
+    "ueName": "UE-COMPRENDRE",
+    "coeff": 4
+  },
+  {
+    "nom": "R.203 Ergonomie et accessibilité",
+    "promo": "MMI01",
+    "semestre": "2",
+    "ueName": "UE-COMPRENDRE",
+    "coeff": 3
+  },
+  {
+    "nom": "R.204 Culture numérique",
+    "promo": "MMI01",
+    "semestre": "2",
+    "ueName": "UE-COMPRENDRE",
+    "coeff": 3
+  },
+  {
+    "nom": "R.216 Représentation et traitement de l'information",
+    "promo": "MMI01",
+    "semestre": "2",
+    "ueName": "UE-COMPRENDRE",
+    "coeff": 1
+  },
+  {
+    "nom": "PORTFOLIO",
+    "promo": "MMI01",
+    "semestre": "2",
+    "ueName": "UE-COMPRENDRE",
+    "coeff": 1
+  },
+  {
+    "nom": "SAE.202 Concevoir un produit ou un service et sa communication",
+    "promo": "MMI01",
+    "semestre": "2",
+    "ueName": "UE-CONCEVOIR",
+    "coeff": 5
+  },
+  {
+    "nom": "R.201 Anglais",
+    "promo": "MMI01",
+    "semestre": "2",
+    "ueName": "UE-CONCEVOIR",
+    "coeff": 2
+  },
+  {
+    "nom": "R.202 Anglais Renforcement",
+    "promo": "MMI01",
+    "semestre": "2",
+    "ueName": "UE-CONCEVOIR",
+    "coeff": 2
+  },
+  {
+    "nom": "R.205 Stratégie de communication et marketing",
+    "promo": "MMI01",
+    "semestre": "2",
+    "ueName": "UE-CONCEVOIR",
+    "coeff": 3
+  },
+  {
+    "nom": "Portfolio",
+    "promo": "MMI01",
+    "semestre": "2",
+    "ueName": "UE-CONCEVOIR",
+    "coeff": 1
+  },
+  {
+    "nom": "SAE.202 Concevoir un produit ou un service et sa communication",
+    "promo": "MMI01",
+    "semestre": "2",
+    "ueName": "UE-EXPRIMER",
+    "coeff": 12
+  },
+  {
+    "nom": "R.201 Anglais",
+    "promo": "MMI01",
+    "semestre": "2",
+    "ueName": "UE-EXPRIMER",
+    "coeff": 1
+  },
+  {
+    "nom": "R.202 Anglais",
+    "promo": "MMI01",
+    "semestre": "2",
+    "ueName": "UE-EXPRIMER",
+    "coeff": 1
+  },
+  {
+    "nom": "R.207 Ecriture Multimédia et Narration ",
+    "promo": "MMI01",
+    "semestre": "2",
+    "ueName": "UE-EXPRIMER",
+    "coeff": 1
+  },
+  {
+    "nom": "R.208 Production Graphique",
+    "promo": "MMI01",
+    "semestre": "2",
+    "ueName": "UE-EXPRIMER",
+    "coeff": 4
+  },
+  {
+    "nom": "R.209 Culture Artistique ",
+    "promo": "MMI01",
+    "semestre": "2",
+    "ueName": "UE-EXPRIMER",
+    "coeff": 3
+  },
+  {
+    "nom": "R.210 Production Audio & Vidéo",
+    "promo": "MMI01",
+    "semestre": "2",
+    "ueName": "UE-EXPRIMER",
+    "coeff": 4
+  },
+  {
+    "nom": "R.216 : Représentation et traitement de l'information",
+    "promo": "MMI01",
+    "semestre": "2",
+    "ueName": "UE-EXPRIMER",
+    "coeff": 2
+  },
+  {
+    "nom": "PORTFOLIO",
+    "promo": "MMI01",
+    "semestre": "2",
+    "ueName": "UE-EXPRIMER",
+    "coeff": 1
+  },
+  {
+    "nom": "SAE.202 Concevoir un produit ou un service et sa communication",
+    "promo": "MMI01",
+    "semestre": "2",
+    "ueName": "UE-DEVELOPPER",
+    "coeff": 2
+  },
+  {
+    "nom": "SAÉ 203 - Site Web et BDD",
+    "promo": "MMI01",
+    "semestre": "2",
+    "ueName": "UE-DEVELOPPER",
+    "coeff": 10
+  },
+  {
+    "nom": "R.211 Gestion de contenus",
+    "promo": "MMI01",
+    "semestre": "2",
+    "ueName": "UE-DEVELOPPER",
+    "coeff": 2
+  },
+  {
+    "nom": "R.212 Intégration",
+    "promo": "MMI01",
+    "semestre": "2",
+    "ueName": "UE-DEVELOPPER",
+    "coeff": 4
+  },
+  {
+    "nom": "R.213 Developpement Web",
+    "promo": "MMI01",
+    "semestre": "2",
+    "ueName": "UE-DEVELOPPER",
+    "coeff": 4
+  },
+  {
+    "nom": "R.214 Système d'information",
+    "promo": "MMI01",
+    "semestre": "2",
+    "ueName": "UE-DEVELOPPER",
+    "coeff": 3
+  },
+  {
+    "nom": "R.215 Hébergement ",
+    "promo": "MMI01",
+    "semestre": "2",
+    "ueName": "UE-DEVELOPPER",
+    "coeff": 3
+  },
+  {
+    "nom": "Portfolio",
+    "promo": "MMI01",
+    "semestre": "2",
+    "ueName": "UE-DEVELOPPER",
+    "coeff": 1
+  },
+  {
+    "nom": "SAE.202 Concevoir un produit ou un service et sa communication",
+    "promo": "MMI01",
+    "semestre": "2",
+    "ueName": "UE-ENTREPRENDRE",
+    "coeff": 2
+  },
+  {
+    "nom": "SAE.204 Construire sa présence en ligne",
+    "promo": "MMI01",
+    "semestre": "2",
+    "ueName": "UE-ENTREPRENDRE",
+    "coeff": 6
+  },
+  {
+    "nom": "R.206 Expression, Communication et Rhétorique",
+    "promo": "MMI01",
+    "semestre": "2",
+    "ueName": "UE-ENTREPRENDRE",
+    "coeff": 3
+  },
+  {
+    "nom": "R.217 Gestion de Projet ",
+    "promo": "MMI01",
+    "semestre": "2",
+    "ueName": "UE-ENTREPRENDRE",
+    "coeff": 3
+  },
+  {
+    "nom": "R.218 Economie des droits du numérique ",
+    "promo": "MMI01",
+    "semestre": "2",
+    "ueName": "UE-ENTREPRENDRE",
+    "coeff": 3
+  },
+  {
+    "nom": "R.219 PPP ",
+    "promo": "MMI01",
+    "semestre": "2",
+    "ueName": "UE-ENTREPRENDRE",
+    "coeff": 4
+  },
+  {
+    "nom": "Portfolio",
+    "promo": "MMI01",
+    "semestre": "2",
+    "ueName": "UE-ENTREPRENDRE",
+    "coeff": 1
   }
 ]
