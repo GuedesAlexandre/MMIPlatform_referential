@@ -1,363 +1,422 @@
 [
   {
-    "nom": "Guillard",
-    "prenom": "Glenn",
-    "groupe": "TD1",
-    "promo":"MMI3",
+    "lastName": "Guillard",
+    "firstName": "Glenn",
+    "group": "TD1",
+    "promo": "MMI3",
+    "num_etu": "257792"
   },
   {
-    "nom": "Peuplu",
-    "prenom": "Jean",
-    "groupe": "TD1",
-    "promo":"MMI3",
-  },
-    {
-    "nom": "Lyse",
-    "prenom": "Ana",
-    "groupe": "TD1",
-    "promo":"MMI3",
-  },
-     {
-    "nom": "Pote",
-    "prenom": "Jack",
-    "groupe": "TD1",
-    "promo":"MMI3",
-  },
-     {
-    "nom": "Hate",
-    "prenom": "Tom",
-    "groupe": "TD1",
-    "promo":"MMI3",
-  },
-      {
-    "nom": "Capsul",
-    "prenom": "Jean-Claude",
-    "groupe": "TD1",
-    "promo":"MMI3",
-  },
-      {
-    "nom": "Milou",
-    "prenom": "Kitty",
-    "groupe": "TD1",
-    "promo":"MMI3",
-  },
-    {
-    "nom": "Henry",
-    "prenom": "Roger",
-    "groupe": "TD1",
-    "promo":"MMI3",
-  },
-     {
-    "nom": "Faupin",
-    "prenom": "Mariane",
-    "groupe": "TD1",
-    "promo":"MMI3",
-  },
-     {
-    "nom": "Etienne",
-    "prenom": "Samuel",
-    "groupe": "TD1",
-    "promo":"MMI3",
-  },
-     {
-    "nom": "Guedes",
-    "prenom": "Alexandre",
-    "groupe": "TD2",
-    "promo":"MMI3",
-  },
-   {
-    "nom": "Trump",
-    "prenom": "Donald",
-    "groupe": "TD2",
-    "promo":"MMI3",
-  },
-     {
-    "nom": "Lecam",
-    "prenom": "Steven",
-    "groupe": "TD2",
-    "promo":"MMI3",
-  },
-    {
-    "nom": "Bic",
-    "prenom": "Brigitte",
-    "groupe": "TD2",
-    "promo":"MMI3",
-  },
-    {
-    "nom": "Cocotte",
-    "prenom": "Calin",
-    "groupe": "TD2",
-    "promo":"MMI3",
-  },
-      {
-    "nom": "Big",
-    "prenom": "Mac",
-    "groupe": "TD2",
-    "promo":"MMI3",
-  },
-        {
-    "nom": "Croche",
-    "prenom": "Sarah",
-    "groupe": "TD2",
-    "promo":"MMI3",
-  },
-        {
-    "nom": "Aire",
-    "prenom": "Axel",
-    "groupe": "TD2",
-    "promo":"MMI3",
-  },
-        {
-    "nom": "Mairdh",
-    "prenom": "Jean",
-    "groupe": "TD2",
-    "promo":"MMI3",
-  },
-        {
-    "nom": "Sion",
-    "prenom": "Remi",
-    "groupe": "TD2",
-    "promo":"MMI3",
-  },
-        {
-    "nom": "Fabre",
-    "prenom": "Jerome",
-    "groupe": "TD1",
-    "promo":"MMI2",
-  },
-         {
-    "nom": "Onette",
-    "prenom": "Camille",
-    "groupe": "TD1",
-    "promo":"MMI2",
-  },
-         {
-    "nom": "Ticule",
-    "prenom": "Tess",
-    "groupe": "TD1",
-    "promo":"MMI2",
-  },
-           {
-    "nom": "Clette",
-    "prenom": "Lara",
-    "groupe": "TD1",
-    "promo":"MMI2",
-  },
-           {
-    "nom": "Coptère",
-    "prenom": "Helie",
-    "groupe": "TD1",
-    "promo":"MMI2",
-  },
-            {
-    "nom": "Postite",
-    "prenom": "Colin",
-    "groupe": "TD1",
-    "promo":"MMI2",
-  },
-             {
-    "nom": "Ultou",
-    "prenom": "Jeanne",
-    "groupe": "TD1",
-    "promo":"MMI2",
-  },
-             {
-    "nom": "Hervite-Monslip",
-    "prenom": "Jean-Philippe",
-    "groupe": "TD1",
-    "promo":"MMI2",
-  },          
-  {
-    "nom": "Bèze",
-    "prenom": "Theo",
-    "groupe": "TD1",
-    "promo":"MMI2",
-  },         
-  {
-    "nom": "Javel",
-    "prenom": "Aude",
-    "groupe": "TD1",
-    "promo":"MMI2",
-  },
-    {
-    "nom": "Henry",
-    "prenom": "Thomas",
-    "groupe": "TD2",
-    "promo":"MMI2",
-  },
-      {
-    "nom": "Zarella",
-    "prenom": "Maude",
-    "groupe": "TD2",
-    "promo":"MMI2",
-  },
-       {
-    "nom": "Diote",
-    "prenom": "Kelly",
-    "groupe": "TD2",
-    "promo":"MMI2",
-  },
- {
-    "nom": "Rico",
-    "prenom": "Lea",
-    "groupe": "TD2",
-    "promo":"MMI2",
+    "lastName": "Peuplu",
+    "firstName": "Jean",
+    "group": "TD1",
+    "promo": "MMI3",
+    "num_etu": "257793"
   },
   {
-    "nom": "Scolaire",
-    "prenom": "Manuel",
-    "groupe": "TD2",
-    "promo":"MMI2",
+    "lastName": "Lyse",
+    "firstName": "Ana",
+    "group": "TD1",
+    "promo": "MMI3",
+    "num_etu": "257794"
   },
   {
-    "nom": "Assin",
-    "prenom": "Marc",
-    "groupe": "TD2",
-    "promo":"MMI2",
+    "lastName": "Pote",
+    "firstName": "Jack",
+    "group": "TD1",
+    "promo": "MMI3",
+    "num_etu": "257795"
   },
   {
-    "nom": "Aifaipipiauli",
-    "prenom": "Jeff",
-    "groupe": "TD2",
-    "promo":"MMI2",
+    "lastName": "Hate",
+    "firstName": "Tom",
+    "group": "TD1",
+    "promo": "MMI3",
+    "num_etu": "257796"
   },
-   {
-    "nom": "Bon",
-    "prenom": "Jean",
-    "groupe": "TD2",
-    "promo":"MMI2",
+  {
+    "lastName": "Capsul",
+    "firstName": "Jean-Claude",
+    "group": "TD1",
+    "promo": "MMI3",
+    "num_etu": "257797"
   },
-    {
-    "nom": "Culaire",
-    "prenom": "Laury",
-    "groupe": "TD2",
-    "promo":"MMI2",
+  {
+    "lastName": "Milou",
+    "firstName": "Kitty",
+    "group": "TD1",
+    "promo": "MMI3",
+    "num_etu": "257798"
   },
-    {
-    "nom": "Doeuf",
-    "prenom": "John",
-    "groupe": "TD2",
-    "promo":"MMI2",
+  {
+    "lastName": "Henry",
+    "firstName": "Roger",
+    "group": "TD1",
+    "promo": "MMI3",
+    "num_etu": "257799"
   },
-    {
-    "nom": "Enerve",
-    "prenom": "Hassam",
-    "groupe": "TD1",
-    "promo":"MMI1",
+  {
+    "lastName": "Faupin",
+    "firstName": "Mariane",
+    "group": "TD1",
+    "promo": "MMI3",
+    "num_etu": "257800"
   },
-   {
-    "nom": "Le Moil",
-    "prenom": "Arno",
-    "groupe": "TD1",
-    "promo":"MMI1",
+  {
+    "lastName": "Etienne",
+    "firstName": "Samuel",
+    "group": "TD1",
+    "promo": "MMI3",
+    "num_etu": "257801"
   },
-     {
-    "nom": "Lairbon",
-    "prenom": "Oussama",
-    "groupe": "TD1",
-    "promo":"MMI1",
+  {
+    "lastName": "Guedes",
+    "firstName": "Alexandre",
+    "group": "TD2",
+    "promo": "MMI3",
+    "num_etu": "257802"
   },
-     {
-    "nom": "Mi",
-    "prenom": "Sala",
-    "groupe": "TD1",
-    "promo":"MMI1",
+  {
+    "lastName": "Trump",
+    "firstName": "Donald",
+    "group": "TD2",
+    "promo": "MMI3",
+    "num_etu": "257803"
   },
-     {
-    "nom": "Nanas",
-    "prenom": "Juda",
-    "groupe": "TD1",
-    "promo":"MMI1",
+  {
+    "lastName": "Lecam",
+    "firstName": "Steven",
+    "group": "TD2",
+    "promo": "MMI3",
+    "num_etu": "257804"
   },
-     {
-    "nom": "Ouzi",
-    "prenom": "Jacques",
-    "groupe": "TD1",
-    "promo":"MMI1",
+  {
+    "lastName": "Bic",
+    "firstName": "Brigitte",
+    "group": "TD2",
+    "promo": "MMI3",
+    "num_etu": "257805"
   },
-     {
-    "nom": "Tim",
-    "prenom": "Vincent",
-    "groupe": "TD1",
-    "promo":"MMI1",
+  {
+    "lastName": "Cocotte",
+    "firstName": "Calin",
+    "group": "TD2",
+    "promo": "MMI3",
+    "num_etu": "257806"
   },
-     {
-    "nom": "Ouche",
-    "prenom": "Jack",
-    "groupe": "TD1",
-    "promo":"MMI1",
+  {
+    "lastName": "Big",
+    "firstName": "Mac",
+    "group": "TD2",
+    "promo": "MMI3",
+    "num_etu": "257807"
   },
-     {
-    "nom": "Bridou",
-    "prenom": "Justin",
-    "groupe": "TD1",
-    "promo":"MMI1",
+  {
+    "lastName": "Croche",
+    "firstName": "Sarah",
+    "group": "TD2",
+    "promo": "MMI3",
+    "num_etu": "257808"
   },
-     {
-    "nom": "Stiole",
-    "prenom": "Beth",
-    "groupe": "TD1",
-    "promo":"MMI1",
+  {
+    "lastName": "Aire",
+    "firstName": "Axel",
+    "group": "TD2",
+    "promo": "MMI3",
+    "num_etu": "257809"
   },
-    {
-    "nom": "Royer",
-    "prenom": "Arnaud",
-    "groupe": "TD2",
-    "promo":"MMI1",
+  {
+    "lastName": "Mairdh",
+    "firstName": "Jean",
+    "group": "TD2",
+    "promo": "MMI3",
+    "num_etu": "257810"
   },
-      {
-    "nom": "Niskotch",
-    "prenom": "Nicole",
-    "groupe": "TD2",
-    "promo":"MMI1",
+  {
+    "lastName": "Sion",
+    "firstName": "Remi",
+    "group": "TD2",
+    "promo": "MMI3",
+    "num_etu": "257811"
   },
-        {
-    "nom": "Sérien",
-    "prenom": "Jean",
-    "groupe": "TD2",
-    "promo":"MMI1",
+  {
+    "lastName": "Fabre",
+    "firstName": "Jerome",
+    "group": "TD1",
+    "promo": "MMI2",
+    "num_etu": "257812"
   },
-        {
-    "nom": "Zola",
-    "prenom": "Gordon",
-    "groupe": "TD2",
-    "promo":"MMI1",
+  {
+    "lastName": "Onette",
+    "firstName": "Camille",
+    "group": "TD1",
+    "promo": "MMI2",
+    "num_etu": "257813"
   },
-        {
-    "nom": "Leuze",
-    "prenom": "Lara",
-    "groupe": "TD2",
-    "promo":"MMI1",
+  {
+    "lastName": "Ticule",
+    "firstName": "Tess",
+    "group": "TD1",
+    "promo": "MMI2",
+    "num_etu": "257814"
   },
-        {
-    "nom": "Dalors",
-    "prenom": "Omer",
-    "groupe": "TD2",
-    "promo":"MMI1",
+  {
+    "lastName": "Clette",
+    "firstName": "Lara",
+    "group": "TD1",
+    "promo": "MMI2",
+    "num_etu": "257815"
   },
-        {
-    "nom": "Chaitte",
-    "prenom": "Barbie",
-    "groupe": "TD2",
-    "promo":"MMI1",
+  {
+    "lastName": "Coptère",
+    "firstName": "Helie",
+    "group": "TD1",
+    "promo": "MMI2",
+    "num_etu": "257816"
   },
-        {
-    "nom": "Vavite",
-    "prenom": "Yves",
-    "groupe": "TD2",
-    "promo":"MMI1",
+  {
+    "lastName": "Postite",
+    "firstName": "Colin",
+    "group": "TD1",
+    "promo": "MMI2",
+    "num_etu": "257817"
   },
-        {
-    "nom": "Nous",
-    "prenom": "Marion",
-    "groupe": "TD2",
-    "promo":"MMI1",
+  {
+    "lastName": "Ultou",
+    "firstName": "Jeanne",
+    "group": "TD1",
+    "promo": "MMI2",
+    "num_etu": "257818"
   },
-        {
-    "nom": "Orléfrites",
-    "prenom": "Jade",
-    "groupe": "TD2",
-    "promo":"MMI1",
+  {
+    "lastName": "Hervite-Monslip",
+    "firstName": "Jean-Philippe",
+    "group": "TD1",
+    "promo": "MMI2",
+    "num_etu": "257819"
   },
-  
+  {
+    "lastName": "Bèze",
+    "firstName": "Theo",
+    "group": "TD1",
+    "promo": "MMI2",
+    "num_etu": "257820"
+  },
+  {
+    "lastName": "Javel",
+    "firstName": "Aude",
+    "group": "TD1",
+    "promo": "MMI2",
+    "num_etu": "257821"
+  },
+  {
+    "lastName": "Henry",
+    "firstName": "Thomas",
+    "group": "TD2",
+    "promo": "MMI2",
+    "num_etu": "257822"
+  },
+  {
+    "lastName": "Zarella",
+    "firstName": "Maude",
+    "group": "TD2",
+    "promo": "MMI2",
+    "num_etu": "257823"
+  },
+  {
+    "lastName": "Diote",
+    "firstName": "Kelly",
+    "group": "TD2",
+    "promo": "MMI2",
+    "num_etu": "257824"
+  },
+  {
+    "lastName": "Rico",
+    "firstName": "Lea",
+    "group": "TD2",
+    "promo": "MMI2",
+    "num_etu": "257825"
+  },
+  {
+    "lastName": "Scolaire",
+    "firstName": "Manuel",
+    "group": "TD2",
+    "promo": "MMI2",
+    "num_etu": "257826"
+  },
+  {
+    "lastName": "Assin",
+    "firstName": "Marc",
+    "group": "TD2",
+    "promo": "MMI2",
+    "num_etu": "257827"
+  },
+  {
+    "lastName": "Aifaipipiauli",
+    "firstName": "Jeff",
+    "group": "TD2",
+    "promo": "MMI2",
+    "num_etu": "257828"
+  },
+  {
+    "lastName": "Bon",
+    "firstName": "Jean",
+    "group": "TD2",
+    "promo": "MMI2",
+    "num_etu": "257829"
+  },
+  {
+    "lastName": "Culaire",
+    "firstName": "Laury",
+    "group": "TD2",
+    "promo": "MMI2",
+    "num_etu": "257830"
+  },
+  {
+    "lastName": "Doeuf",
+    "firstName": "John",
+    "group": "TD2",
+    "promo": "MMI2",
+    "num_etu": "257831"
+  },
+  {
+    "lastName": "Enerve",
+    "firstName": "Hassam",
+    "group": "TD1",
+    "promo": "MMI1",
+    "num_etu": "257832"
+  },
+  {
+    "lastName": "Le Moil",
+    "firstName": "Arno",
+    "group": "TD1",
+    "promo": "MMI1",
+    "num_etu": "257833"
+  },
+  {
+    "lastName": "Lairbon",
+    "firstName": "Oussama",
+    "group": "TD1",
+    "promo": "MMI1",
+    "num_etu": "257834"
+  },
+  {
+    "lastName": "Mi",
+    "firstName": "Sala",
+    "group": "TD1",
+    "promo": "MMI1",
+    "num_etu": "257835"
+  },
+  {
+    "lastName": "Nanas",
+    "firstName": "Juda",
+    "group": "TD1",
+    "promo": "MMI1",
+    "num_etu": "257836"
+  },
+  {
+    "lastName": "Ouzi",
+    "firstName": "Jacques",
+    "group": "TD1",
+    "promo": "MMI1",
+    "num_etu": "257837"
+  },
+  {
+    "lastName": "Tim",
+    "firstName": "Vincent",
+    "group": "TD1",
+    "promo": "MMI1",
+    "num_etu": "257838"
+  },
+  {
+    "lastName": "Ouche",
+    "firstName": "Jack",
+    "group": "TD1",
+    "promo": "MMI1",
+    "num_etu": "257839"
+  },
+  {
+    "lastName": "Bridou",
+    "firstName": "Justin",
+    "group": "TD1",
+    "promo": "MMI1",
+    "num_etu": "257840"
+  },
+  {
+    "lastName": "Stiole",
+    "firstName": "Beth",
+    "group": "TD1",
+    "promo": "MMI1",
+    "num_etu": "257841"
+  },
+  {
+    "lastName": "Royer",
+    "firstName": "Arnaud",
+    "group": "TD2",
+    "promo": "MMI1",
+    "num_etu": "257842"
+  },
+  {
+    "lastName": "Niskotch",
+    "firstName": "Nicole",
+    "group": "TD2",
+    "promo": "MMI1",
+    "num_etu": "257843"
+  },
+  {
+    "lastName": "Sérien",
+    "firstName": "Jean",
+    "group": "TD2",
+    "promo": "MMI1",
+    "num_etu": "257844"
+  },
+  {
+    "lastName": "Zola",
+    "firstName": "Gordon",
+    "group": "TD2",
+    "promo": "MMI1",
+    "num_etu": "257845"
+  },
+  {
+    "lastName": "Leuze",
+    "firstName": "Lara",
+    "group": "TD2",
+    "promo": "MMI1",
+    "num_etu": "257846"
+  },
+  {
+    "lastName": "Dalors",
+    "firstName": "Omer",
+    "group": "TD2",
+    "promo": "MMI1",
+    "num_etu": "257847"
+  },
+  {
+    "lastName": "Chaitte",
+    "firstName": "Barbie",
+    "group": "TD2",
+    "promo": "MMI1",
+    "num_etu": "257848"
+  },
+  {
+    "lastName": "Vavite",
+    "firstName": "Yves",
+    "group": "TD2",
+    "promo": "MMI1",
+    "num_etu": "257849"
+  },
+  {
+    "lastName": "Nous",
+    "firstName": "Marion",
+    "group": "TD2",
+    "promo": "MMI1",
+    "num_etu": "257850"
+  },
+  {
+    "lastName": "Orléfrites",
+    "firstName": "Jade",
+    "group": "TD2",
+    "promo": "MMI1",
+    "num_etu": "257851"
+  }
 ]
