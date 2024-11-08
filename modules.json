@@ -516,5 +516,126 @@
     "semestre": "2",
     "ueName": "UE-ENTREPRENDRE",
     "coeff": 1
-  }
+  },
+  {
+    "nom": "SAE 301 Concevoir et développer une expérience utilisateur",
+    "promo": "MMI02",
+    "semestre": "3",
+    "ueName": "UE-COMPRENDRE",
+    "coeff": 2
+  },
+  {
+    "nom": "SAE 302 Produire des contenus pour une communication plurimédia",
+    "promo": "MMI02",
+    "semestre": "2",
+    "ueName": "UE-COMPRENDRE",
+    "coeff": 2
+  },
+  {
+    "nom": "SAE 303 Concevoir des visualisations de données",
+    "promo": "MMI02",
+    "semestre": "2",
+    "ueName": "UE-COMPRENDRE",
+    "coeff": 2
+  },
+  {
+    "nom": "R303 Design d'expérience",
+    "promo": "MMI02",
+    "semestre": "2",
+    "ueName": "UE-COMPRENDRE",
+    "coeff": 2
+  },
+  {
+    "nom": "R304 Culture numérique",
+    "promo": "MMI02",
+    "semestre": "2",
+    "ueName": "UE-COMPRENDRE",
+    "coeff": 1
+  }, 
+ {
+    "nom": "R305 Stratégie de communication et marketing",
+    "promo": "MMI02",
+    "semestre": "2",
+    "ueName": "UE-COMPRENDRE",
+    "coeff": 1
+  },
+ {
+    "nom": "R306 Référencement",
+    "promo": "MMI02",
+    "semestre": "2",
+    "ueName": "UE-COMPRENDRE",
+    "coeff": 1
+  },
+ {
+    "nom": "R315 Représentation et traitement de l'information",
+    "promo": "MMI02",
+    "semestre": "2",
+    "ueName": "UE-COMPRENDRE",
+    "coeff": 2
+  },
+ {
+    "nom": "SAE 301 Concevoir et développer une expérience utilisateur",
+    "promo": "MMI02",
+    "semestre": "2",
+    "ueName": "UE-CONCEVOIR",
+    "coeff": 2
+  },
+ {
+    "nom": "SAE 302 Produire des contenus pour une communication plurimédia",
+    "promo": "MMI02",
+    "semestre": "2",
+    "ueName": "UE-CONCEVOIR",
+    "coeff": 3
+  }, 
+   {
+    "nom": "R303 Design d'expérience",
+    "promo": "MMI02",
+    "semestre": "2",
+    "ueName": "UE-CONCEVOIR",
+    "coeff": 1
+  },
+   {
+    "nom": "R304 Culture numérique",
+    "promo": "MMI02",
+    "semestre": "2",
+    "ueName": "UE-CONCEVOIR",
+    "coeff": 2
+  },
+     {
+    "nom": "R305 Stratégie de communication et marketing",
+    "promo": "MMI02",
+    "semestre": "2",
+    "ueName": "UE-CONCEVOIR",
+    "coeff": 2
+  }, 
+     {
+    "nom": "R306 Référencement",
+    "promo": "MMI02",
+    "semestre": "2",
+    "ueName": "UE-CONCEVOIR",
+    "coeff": 2
+  }, 
+     {
+    "nom": "SAE302 Produire des contenus pour une communication plurimédia",
+    "promo": "MMI02",
+    "semestre": "2",
+    "ueName": "UE-EXPRIMER",
+    "coeff": 7
+  }, 
+     {
+    "nom": "SAE303 Concevoir des visualisations de données",
+    "promo": "MMI02",
+    "semestre": "2",
+    "ueName": "UE-EXPRIMER",
+    "coeff": 5
+  }, 
+ {
+    "nom": "R301 Anglais",
+    "promo": "MMI02",
+    "semestre": "2",
+    "ueName": "UE-EXPRIMER",
+    "coeff": 1
+  }, 
+  
+  
 ]
