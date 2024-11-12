@@ -234,49 +234,49 @@
     "name": "SAE.106 Gestion de projet pour une recommandation de communication numérique",
     "promo": "MMI01",
     "semester": "1",
-    "ueName": "UE-ENTREPRENDRE",
+    "ueName": "UE_ENTREPRENDRE",
     "coeff": 10
   },
   {
     "name": "R.101 Anglais",
     "promo": "MMI01",
     "semester": "1",
-    "ueName": "UE-ENTREPRENDRE",
+    "ueName": "UE_ENTREPRENDRE",
     "coeff": 1
   },
   {
     "name": "R.102 Anglais renforcement",
     "promo": "MMI01",
     "semester": "1",
-    "ueName": "UE-ENTREPRENDRE",
+    "ueName": "UE_ENTREPRENDRE",
     "coeff": 1
   },
   {
     "name": "R.106 Expression, communication et rhétorique ",
     "promo": "MMI01",
     "semester": "1",
-    "ueName": "UE-ENTREPRENDRE",
+    "ueName": "UE_ENTREPRENDRE",
     "coeff": 2
   },
   {
     "name": "R.115 : Gestion de Projet ",
     "promo": "MMI01",
     "semester": "1",
-    "ueName": "UE-ENTREPRENDRE",
+    "ueName": "UE_ENTREPRENDRE",
     "coeff": 3
   },
   {
     "name": "R.116 Econameie, gestion et droit du numérique",
     "promo": "MMI01",
     "semester": "1",
-    "ueName": "UE-ENTREPRENDRE",
+    "ueName": "UE_ENTREPRENDRE",
     "coeff": 1
   },
   {
     "name": "R.117 PPP ",
     "promo": "MMI01",
     "semester": "1",
-    "ueName": "UE-ENTREPRENDRE",
+    "ueName": "UE_ENTREPRENDRE",
     "coeff": 4
   },
   {
@@ -420,7 +420,7 @@
     "coeff": 2
   },
   {
-    "name": "SAÉ 203 - Site Web et BDD",
+    "name": "SAÉ 203 _ Site Web et BDD",
     "promo": "MMI01",
     "semester": "2",
     "ueName": "UE_ENTREPRENDRE",
@@ -472,49 +472,49 @@
     "name": "SAE.202 Concevoir un produit ou un service et sa communication",
     "promo": "MMI01",
     "semester": "2",
-    "ueName": "UE-ENTREPRENDRE",
+    "ueName": "UE_ENTREPRENDRE",
     "coeff": 2
   },
   {
     "name": "SAE.204 Construire sa présence en ligne",
     "promo": "MMI01",
     "semester": "2",
-    "ueName": "UE-ENTREPRENDRE",
+    "ueName": "UE_ENTREPRENDRE",
     "coeff": 6
   },
   {
     "name": "R.206 Expression, Communication et Rhétorique",
     "promo": "MMI01",
     "semester": "2",
-    "ueName": "UE-ENTREPRENDRE",
+    "ueName": "UE_ENTREPRENDRE",
     "coeff": 3
   },
   {
     "name": "R.217 Gestion de Projet ",
     "promo": "MMI01",
     "semester": "2",
-    "ueName": "UE-ENTREPRENDRE",
+    "ueName": "UE_ENTREPRENDRE",
     "coeff": 3
   },
   {
     "name": "R.218 Econameie des droits du numérique ",
     "promo": "MMI01",
     "semester": "2",
-    "ueName": "UE-ENTREPRENDRE",
+    "ueName": "UE_ENTREPRENDRE",
     "coeff": 3
   },
   {
     "name": "R.219 PPP ",
     "promo": "MMI01",
     "semester": "2",
-    "ueName": "UE-ENTREPRENDRE",
+    "ueName": "UE_ENTREPRENDRE",
     "coeff": 4
   },
   {
     "name": "Portfolio",
     "promo": "MMI01",
     "semester": "2",
-    "ueName": "UE-ENTREPRENDRE",
+    "ueName": "UE_ENTREPRENDRE",
     "coeff": 1
   },
   {
@@ -724,87 +724,87 @@
     "name": "301 Concevoir et développer une expérience utilisateur",
     "promo": "MMI02",
     "semester": "3",
-    "ueName": "UE-ENTREPRENDRE",
+    "ueName": "UE_ENTREPRENDRE",
     "coeff": 5
   },
   {
     "name": "302 Produire des contenus pour une communication plurimédia",
     "promo": "MMI02",
     "semester": "3",
-    "ueName": "UE-ENTREPRENDRE",
+    "ueName": "UE_ENTREPRENDRE",
     "coeff": 5
   },
   {
     "name": "R301 Anglais",
     "promo": "MMI02",
     "semester": "3",
-    "ueName": "UE-ENTREPRENDRE",
+    "ueName": "UE_ENTREPRENDRE",
     "coeff": 2
   },
   {
     "name": "R302 Anglais renforcé",
     "promo": "MMI02",
     "semester": "3",
-    "ueName": "UE-ENTREPRENDRE",
+    "ueName": "UE_ENTREPRENDRE",
     "coeff": 1
   },
   {
     "name": "R307 Expression communication et rhétorique",
     "promo": "MMI02",
     "semester": "3",
-    "ueName": "UE-ENTREPRENDRE",
+    "ueName": "UE_ENTREPRENDRE",
     "coeff": 3
   },
   {
     "name": "R316 Gestion de projet",
     "promo": "MMI02",
     "semester": "3",
-    "ueName": "UE-ENTREPRENDRE",
+    "ueName": "UE_ENTREPRENDRE",
     "coeff": 2
   },
   {
     "name": "R317 Éconameie, gestion et droit du numérique",
     "promo": "MMI02",
     "semester": "3",
-    "ueName": "UE-ENTREPRENDRE",
+    "ueName": "UE_ENTREPRENDRE",
     "coeff": 3
   },
   {
     "name": "R318 PPP",
     "promo": "MMI02",
     "semester": "3",
-    "ueName": "UE-ENTREPRENDRE",
+    "ueName": "UE_ENTREPRENDRE",
     "coeff": 2
   },
-    {
+  {
     "name": "R403 Design d'expérience",
     "promo": "MMI02",
     "semester": "4",
     "ueName": "UE_COMPRENDRE",
     "coeff": 3
   },
-     {
+  {
     "name": "Stage",
     "promo": "MMI02",
     "semester": "4",
     "ueName": "UE_COMPRENDRE",
     "coeff": 1
   },
-       {
+  {
     "name": "Portfolio",
     "promo": "MMI02",
     "semester": "4",
     "ueName": "UE_COMPRENDRE",
     "coeff": 1
   },
-       {
+  {
     "name": "SAE 401 Développer pour le web",
     "promo": "MMI02",
     "semester": "4",
     "ueName": "UE_COMPRENDRE",
     "coeff": 1
   },
-         {
+  {
     "name": "SAE 401 Développer pour le web",
     "promo": "MMI02",
     "semester": "4",
