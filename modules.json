@@ -2,805 +2,812 @@
   {
     "name": "R.101 AUDIT Communication numérique",
     "promo": "MMI01",
-    "semestre": "1",
+    "semester": "1",
     "ueName": "UE_COMPRENDRE",
     "coeff": 8
   },
   {
     "name": "R.103 Ergonameie et accessibilité",
     "promo": "MMI01",
-    "semestre": "1",
+    "semester": "1",
     "ueName": "UE_COMPRENDRE",
     "coeff": 3
   },
   {
     "name": "R.104 Culture numérique",
     "promo": "MMI01",
-    "semestre": "1",
+    "semester": "1",
     "ueName": "UE_COMPRENDRE",
     "coeff": 3
   },
   {
     "name": "R.105 Stratégie de communication & Marketing",
     "promo": "MMI01",
-    "semestre": "1",
+    "semester": "1",
     "ueName": "UE_COMPRENDRE",
     "coeff": 2
   },
   {
     "name": "R.109 Culture artistique",
     "promo": "MMI01",
-    "semestre": "1",
+    "semester": "1",
     "ueName": "UE_COMPRENDRE",
     "coeff": 1
   },
   {
     "name": "R.114 Représentation et traitement de l'information",
     "promo": "MMI01",
-    "semestre": "1",
+    "semester": "1",
     "ueName": "UE_COMPRENDRE",
     "coeff": 1
   },
   {
     "name": "R.116 Econameie des droits du numérique",
     "promo": "MMI01",
-    "semestre": "1",
+    "semester": "1",
     "ueName": "UE_COMPRENDRE",
     "coeff": 2
   },
   {
     "name": "Adaptation de parcours Mathématiques",
     "promo": "MMI01",
-    "semestre": "1",
+    "semester": "1",
     "ueName": "UE_COMPRENDRE",
     "coeff": 1
   },
   {
     "name": "SAE.102 Recommandation de Communication Numérique ",
     "promo": "MMI01",
-    "semestre": "1",
+    "semester": "1",
     "ueName": "UE_CONCEVOIR",
     "coeff": 6
   },
   {
     "name": "R.101 Anglais",
     "promo": "MMI01",
-    "semestre": "1",
+    "semester": "1",
     "ueName": "UE_CONCEVOIR",
     "coeff": 1
   },
   {
     "name": "R.102 Anglais Renforcement",
     "promo": "MMI01",
-    "semestre": "1",
+    "semester": "1",
     "ueName": "UE_CONCEVOIR",
     "coeff": 1
   },
   {
     "name": "R.105 Stratégie de communication & Marketing",
     "promo": "MMI01",
-    "semestre": "1",
+    "semester": "1",
     "ueName": "UE_CONCEVOIR",
     "coeff": 3
   },
   {
     "name": "R.106 Projet de Communication Numérique",
     "promo": "MMI01",
-    "semestre": "1",
+    "semester": "1",
     "ueName": "UE_CONCEVOIR",
     "coeff": 6
   },
   {
     "name": "R.107 Projet de Communication Numérique",
     "promo": "MMI01",
-    "semestre": "1",
+    "semester": "1",
     "ueName": "UE_CONCEVOIR",
     "coeff": 6
   },
   {
     "name": "R.108 Projet de Communication Numérique",
     "promo": "MMI01",
-    "semestre": "1",
+    "semester": "1",
     "ueName": "UE_CONCEVOIR",
     "coeff": 6
   },
   {
     "name": "R.110 Projet de Communication Numérique",
     "promo": "MMI01",
-    "semestre": "1",
+    "semester": "1",
     "ueName": "UE_CONCEVOIR",
     "coeff": 6
   },
   {
     "name": "R.111 Projet de Communication Numérique",
     "promo": "MMI01",
-    "semestre": "1",
+    "semester": "1",
     "ueName": "UE_CONCEVOIR",
     "coeff": 6
   },
   {
     "name": "R.112 Projet de Communication Numérique",
     "promo": "MMI01",
-    "semestre": "1",
+    "semester": "1",
     "ueName": "UE_CONCEVOIR",
     "coeff": 6
   },
   {
     "name": "R.113 Projet de Communication Numérique",
     "promo": "MMI01",
-    "semestre": "1",
+    "semester": "1",
     "ueName": "UE_CONCEVOIR",
     "coeff": 6
   },
   {
     "name": "R.115 Projet de Communication Numérique",
     "promo": "MMI01",
-    "semestre": "1",
+    "semester": "1",
     "ueName": "UE_CONCEVOIR",
     "coeff": 6
   },
   {
     "name": "R.106 Expression, Communication et Rhétorique",
     "promo": "MMI01",
-    "semestre": "1",
+    "semester": "1",
     "ueName": "UE_CONCEVOIR",
     "coeff": 2
   },
   {
     "name": "SAE.103 Design graphique",
     "promo": "MMI01",
-    "semestre": "1",
+    "semester": "1",
     "ueName": "UE_EXPRIMER",
     "coeff": 6
   },
   {
     "name": "R.104 Production Audiovisuelle",
     "promo": "MMI01",
-    "semestre": "1",
+    "semester": "1",
     "ueName": "UE_EXPRIMER",
     "coeff": 6
   },
   {
     "name": "R.101 Anglais",
     "promo": "MMI01",
-    "semestre": "1",
+    "semester": "1",
     "ueName": "UE_EXPRIMER",
     "coeff": 1
   },
   {
     "name": "R.107 Ecriture Multimédia et narration",
     "promo": "MMI01",
-    "semestre": "1",
+    "semester": "1",
     "ueName": "UE_EXPRIMER",
     "coeff": 3
   },
   {
     "name": "R.108 Production Graphique ",
     "promo": "MMI01",
-    "semestre": "1",
+    "semester": "1",
     "ueName": "UE_EXPRIMER",
     "coeff": 4
   },
   {
     "name": "R.109 Culture artistique",
     "promo": "MMI01",
-    "semestre": "1",
+    "semester": "1",
     "ueName": "UE_EXPRIMER",
     "coeff": 2
   },
   {
     "name": "R.110 Production Audio & Vidéo",
     "promo": "MMI01",
-    "semestre": "1",
+    "semester": "1",
     "ueName": "UE_EXPRIMER",
     "coeff": 4
   },
   {
     "name": "R.114 Représentation et traitement de l'information",
     "promo": "MMI01",
-    "semestre": "1",
+    "semester": "1",
     "ueName": "UE_EXPRIMER",
     "coeff": 3
   },
   {
     "name": "SAE.105 Produire un site Web",
     "promo": "MMI01",
-    "semestre": "1",
+    "semester": "1",
     "ueName": "UE_ENTREPRENDRE",
     "coeff": 12
   },
   {
     "name": "R.111 Intégration",
     "promo": "MMI01",
-    "semestre": "1",
+    "semester": "1",
     "ueName": "UE_ENTREPRENDRE",
     "coeff": 5
   },
   {
     "name": "R.112 Developpement Web",
     "promo": "MMI01",
-    "semestre": "1",
+    "semester": "1",
     "ueName": "UE_ENTREPRENDRE",
     "coeff": 4
   },
   {
     "name": "R.113 Hébergement ",
     "promo": "MMI01",
-    "semestre": "1",
+    "semester": "1",
     "ueName": "UE_ENTREPRENDRE",
     "coeff": 3
   },
   {
     "name": "SAE.106 Gestion de projet pour une recommandation de communication numérique",
     "promo": "MMI01",
-    "semestre": "1",
+    "semester": "1",
     "ueName": "UE-ENTREPRENDRE",
     "coeff": 10
   },
   {
     "name": "R.101 Anglais",
     "promo": "MMI01",
-    "semestre": "1",
+    "semester": "1",
     "ueName": "UE-ENTREPRENDRE",
     "coeff": 1
   },
   {
     "name": "R.102 Anglais renforcement",
     "promo": "MMI01",
-    "semestre": "1",
+    "semester": "1",
     "ueName": "UE-ENTREPRENDRE",
     "coeff": 1
   },
   {
     "name": "R.106 Expression, communication et rhétorique ",
     "promo": "MMI01",
-    "semestre": "1",
+    "semester": "1",
     "ueName": "UE-ENTREPRENDRE",
     "coeff": 2
   },
   {
     "name": "R.115 : Gestion de Projet ",
     "promo": "MMI01",
-    "semestre": "1",
+    "semester": "1",
     "ueName": "UE-ENTREPRENDRE",
     "coeff": 3
   },
   {
     "name": "R.116 Econameie, gestion et droit du numérique",
     "promo": "MMI01",
-    "semestre": "1",
+    "semester": "1",
     "ueName": "UE-ENTREPRENDRE",
     "coeff": 1
   },
   {
     "name": "R.117 PPP ",
     "promo": "MMI01",
-    "semestre": "1",
+    "semester": "1",
     "ueName": "UE-ENTREPRENDRE",
     "coeff": 4
   },
   {
     "name": "SAE.201 Exploration des usages",
     "promo": "MMI01",
-    "semestre": "2",
+    "semester": "2",
     "ueName": "UE_COMPRENDRE",
     "coeff": 4
   },
   {
     "name": "R.203 Ergonameie et accessibilité",
     "promo": "MMI01",
-    "semestre": "2",
+    "semester": "2",
     "ueName": "UE_COMPRENDRE",
     "coeff": 3
   },
   {
     "name": "R.204 Culture numérique",
     "promo": "MMI01",
-    "semestre": "2",
+    "semester": "2",
     "ueName": "UE_COMPRENDRE",
     "coeff": 3
   },
   {
     "name": "R.216 Représentation et traitement de l'information",
     "promo": "MMI01",
-    "semestre": "2",
+    "semester": "2",
     "ueName": "UE_COMPRENDRE",
     "coeff": 1
   },
   {
     "name": "PORTFOLIO",
     "promo": "MMI01",
-    "semestre": "2",
+    "semester": "2",
     "ueName": "UE_COMPRENDRE",
     "coeff": 1
   },
   {
     "name": "SAE.202 Concevoir un produit ou un service et sa communication",
     "promo": "MMI01",
-    "semestre": "2",
+    "semester": "2",
     "ueName": "UE_CONCEVOIR",
     "coeff": 5
   },
   {
     "name": "R.201 Anglais",
     "promo": "MMI01",
-    "semestre": "2",
+    "semester": "2",
     "ueName": "UE_CONCEVOIR",
     "coeff": 2
   },
   {
     "name": "R.202 Anglais Renforcement",
     "promo": "MMI01",
-    "semestre": "2",
+    "semester": "2",
     "ueName": "UE_CONCEVOIR",
     "coeff": 2
   },
   {
     "name": "R.205 Stratégie de communication et marketing",
     "promo": "MMI01",
-    "semestre": "2",
+    "semester": "2",
     "ueName": "UE_CONCEVOIR",
     "coeff": 3
   },
   {
     "name": "Portfolio",
     "promo": "MMI01",
-    "semestre": "2",
+    "semester": "2",
     "ueName": "UE_CONCEVOIR",
     "coeff": 1
   },
   {
     "name": "SAE.202 Concevoir un produit ou un service et sa communication",
     "promo": "MMI01",
-    "semestre": "2",
+    "semester": "2",
     "ueName": "UE_EXPRIMER",
     "coeff": 12
   },
   {
     "name": "R.201 Anglais",
     "promo": "MMI01",
-    "semestre": "2",
+    "semester": "2",
     "ueName": "UE_EXPRIMER",
     "coeff": 1
   },
   {
     "name": "R.202 Anglais",
     "promo": "MMI01",
-    "semestre": "2",
+    "semester": "2",
     "ueName": "UE_EXPRIMER",
     "coeff": 1
   },
   {
     "name": "R.207 Ecriture Multimédia et Narration ",
     "promo": "MMI01",
-    "semestre": "2",
+    "semester": "2",
     "ueName": "UE_EXPRIMER",
     "coeff": 1
   },
   {
     "name": "R.208 Production Graphique",
     "promo": "MMI01",
-    "semestre": "2",
+    "semester": "2",
     "ueName": "UE_EXPRIMER",
     "coeff": 4
   },
   {
     "name": "R.209 Culture Artistique ",
     "promo": "MMI01",
-    "semestre": "2",
+    "semester": "2",
     "ueName": "UE_EXPRIMER",
     "coeff": 3
   },
   {
     "name": "R.210 Production Audio & Vidéo",
     "promo": "MMI01",
-    "semestre": "2",
+    "semester": "2",
     "ueName": "UE_EXPRIMER",
     "coeff": 4
   },
   {
     "name": "R.216 : Représentation et traitement de l'information",
     "promo": "MMI01",
-    "semestre": "2",
+    "semester": "2",
     "ueName": "UE_EXPRIMER",
     "coeff": 2
   },
   {
     "name": "PORTFOLIO",
     "promo": "MMI01",
-    "semestre": "2",
+    "semester": "2",
     "ueName": "UE_EXPRIMER",
     "coeff": 1
   },
   {
     "name": "SAE.202 Concevoir un produit ou un service et sa communication",
     "promo": "MMI01",
-    "semestre": "2",
+    "semester": "2",
     "ueName": "UE_ENTREPRENDRE",
     "coeff": 2
   },
   {
     "name": "SAÉ 203 - Site Web et BDD",
     "promo": "MMI01",
-    "semestre": "2",
+    "semester": "2",
     "ueName": "UE_ENTREPRENDRE",
     "coeff": 10
   },
   {
     "name": "R.211 Gestion de contenus",
     "promo": "MMI01",
-    "semestre": "2",
+    "semester": "2",
     "ueName": "UE_ENTREPRENDRE",
     "coeff": 2
   },
   {
     "name": "R.212 Intégration",
     "promo": "MMI01",
-    "semestre": "2",
+    "semester": "2",
     "ueName": "UE_ENTREPRENDRE",
     "coeff": 4
   },
   {
     "name": "R.213 Developpement Web",
     "promo": "MMI01",
-    "semestre": "2",
+    "semester": "2",
     "ueName": "UE_ENTREPRENDRE",
     "coeff": 4
   },
   {
     "name": "R.214 Système d'information",
     "promo": "MMI01",
-    "semestre": "2",
+    "semester": "2",
     "ueName": "UE_ENTREPRENDRE",
     "coeff": 3
   },
   {
     "name": "R.215 Hébergement ",
     "promo": "MMI01",
-    "semestre": "2",
+    "semester": "2",
     "ueName": "UE_ENTREPRENDRE",
     "coeff": 3
   },
   {
     "name": "Portfolio",
     "promo": "MMI01",
-    "semestre": "2",
+    "semester": "2",
     "ueName": "UE_ENTREPRENDRE",
     "coeff": 1
   },
   {
     "name": "SAE.202 Concevoir un produit ou un service et sa communication",
     "promo": "MMI01",
-    "semestre": "2",
+    "semester": "2",
     "ueName": "UE-ENTREPRENDRE",
     "coeff": 2
   },
   {
     "name": "SAE.204 Construire sa présence en ligne",
     "promo": "MMI01",
-    "semestre": "2",
+    "semester": "2",
     "ueName": "UE-ENTREPRENDRE",
     "coeff": 6
   },
   {
     "name": "R.206 Expression, Communication et Rhétorique",
     "promo": "MMI01",
-    "semestre": "2",
+    "semester": "2",
     "ueName": "UE-ENTREPRENDRE",
     "coeff": 3
   },
   {
     "name": "R.217 Gestion de Projet ",
     "promo": "MMI01",
-    "semestre": "2",
+    "semester": "2",
     "ueName": "UE-ENTREPRENDRE",
     "coeff": 3
   },
   {
     "name": "R.218 Econameie des droits du numérique ",
     "promo": "MMI01",
-    "semestre": "2",
+    "semester": "2",
     "ueName": "UE-ENTREPRENDRE",
     "coeff": 3
   },
   {
     "name": "R.219 PPP ",
     "promo": "MMI01",
-    "semestre": "2",
+    "semester": "2",
     "ueName": "UE-ENTREPRENDRE",
     "coeff": 4
   },
   {
     "name": "Portfolio",
     "promo": "MMI01",
-    "semestre": "2",
+    "semester": "2",
     "ueName": "UE-ENTREPRENDRE",
     "coeff": 1
   },
   {
     "name": "SAE 301 Concevoir et développer une expérience utilisateur",
     "promo": "MMI02",
-    "semestre": "3",
+    "semester": "3",
     "ueName": "UE_COMPRENDRE",
     "coeff": 2
   },
   {
     "name": "SAE 302 Produire des contenus pour une communication plurimédia",
     "promo": "MMI02",
-    "semestre": "3",
+    "semester": "3",
     "ueName": "UE_COMPRENDRE",
     "coeff": 2
   },
   {
     "name": "SAE 303 Concevoir des visualisations de données",
     "promo": "MMI02",
-    "semestre": "3",
+    "semester": "3",
     "ueName": "UE_COMPRENDRE",
     "coeff": 2
   },
   {
     "name": "R303 Design d'expérience",
     "promo": "MMI02",
-    "semestre": "3",
+    "semester": "3",
     "ueName": "UE_COMPRENDRE",
     "coeff": 2
   },
   {
     "name": "R304 Culture numérique",
     "promo": "MMI02",
-    "semestre": "3",
+    "semester": "3",
     "ueName": "UE_COMPRENDRE",
     "coeff": 1
   },
   {
     "name": "R305 Stratégie de communication et marketing",
     "promo": "MMI02",
-    "semestre": "3",
+    "semester": "3",
     "ueName": "UE_COMPRENDRE",
     "coeff": 1
   },
   {
     "name": "R306 Référencement",
     "promo": "MMI02",
-    "semestre": "3",
+    "semester": "3",
     "ueName": "UE_COMPRENDRE",
     "coeff": 1
   },
   {
     "name": "R315 Représentation et traitement de l'information",
     "promo": "MMI02",
-    "semestre": "3",
+    "semester": "3",
     "ueName": "UE_COMPRENDRE",
     "coeff": 2
   },
   {
     "name": "SAE 301 Concevoir et développer une expérience utilisateur",
     "promo": "MMI02",
-    "semestre": "3",
+    "semester": "3",
     "ueName": "UE_CONCEVOIR",
     "coeff": 2
   },
   {
     "name": "SAE 302 Produire des contenus pour une communication plurimédia",
     "promo": "MMI02",
-    "semestre": "3",
+    "semester": "3",
     "ueName": "UE_CONCEVOIR",
     "coeff": 3
   },
   {
     "name": "R303 Design d'expérience",
     "promo": "MMI02",
-    "semestre": "3",
+    "semester": "3",
     "ueName": "UE_CONCEVOIR",
     "coeff": 1
   },
   {
     "name": "R304 Culture numérique",
     "promo": "MMI02",
-    "semestre": "3",
+    "semester": "3",
     "ueName": "UE_CONCEVOIR",
     "coeff": 2
   },
   {
     "name": "R305 Stratégie de communication et marketing",
     "promo": "MMI02",
-    "semestre": "3",
+    "semester": "3",
     "ueName": "UE_CONCEVOIR",
     "coeff": 2
   },
   {
     "name": "R306 Référencement",
     "promo": "MMI02",
-    "semestre": "3",
+    "semester": "3",
     "ueName": "UE_CONCEVOIR",
     "coeff": 2
   },
   {
     "name": "SAE302 Produire des contenus pour une communication plurimédia",
     "promo": "MMI02",
-    "semestre": "3",
+    "semester": "3",
     "ueName": "UE_EXPRIMER",
     "coeff": 7
   },
   {
     "name": "SAE303 Concevoir des visualisations de données",
     "promo": "MMI02",
-    "semestre": "3",
+    "semester": "3",
     "ueName": "UE_EXPRIMER",
     "coeff": 5
   },
   {
     "name": "R301 Anglais",
     "promo": "MMI02",
-    "semestre": "3",
+    "semester": "3",
     "ueName": "UE_EXPRIMER",
     "coeff": 1
   },
   {
     "name": "R302 Anglais renforcé",
     "promo": "MMI02",
-    "semestre": "3",
+    "semester": "3",
     "ueName": "UE_EXPRIMER",
     "coeff": 1
   },
   {
     "name": "R308 Écriture multimédia et narration",
     "promo": "MMI02",
-    "semestre": "3",
+    "semester": "3",
     "ueName": "UE_EXPRIMER",
     "coeff": 2
   },
   {
     "name": "R309 Création et design interactif",
     "promo": "MMI02",
-    "semestre": "3",
+    "semester": "3",
     "ueName": "UE_EXPRIMER",
     "coeff": 3
   },
   {
     "name": "R310 Culture artistique",
     "promo": "MMI02",
-    "semestre": "3",
+    "semester": "3",
     "ueName": "UE_EXPRIMER",
     "coeff": 4
   },
   {
     "name": "R311 Audiovisuel et motion design",
     "promo": "MMI02",
-    "semestre": "3",
+    "semester": "3",
     "ueName": "UE_EXPRIMER",
     "coeff": 4
   },
   {
     "name": "R315 Représentation et traitement de l'information",
     "promo": "MMI02",
-    "semestre": "3",
+    "semester": "3",
     "ueName": "UE_EXPRIMER",
     "coeff": 2
   },
   {
     "name": "SAE 301 Concevoir et développer une expérience utilisateur",
     "promo": "MMI02",
-    "semestre": "3",
+    "semester": "3",
     "ueName": "UE_ENTREPRENDRE",
     "coeff": 8
   },
   {
     "name": "SAE 303 Concevoir des visualisations de données",
     "promo": "MMI02",
-    "semestre": "3",
+    "semester": "3",
     "ueName": "UE_ENTREPRENDRE",
     "coeff": 4
   },
   {
     "name": "R312 Développement Front et intégration",
     "promo": "MMI02",
-    "semestre": "3",
+    "semester": "3",
     "ueName": "UE_ENTREPRENDRE",
     "coeff": 7
   },
   {
     "name": "R313 Développement Back",
     "promo": "MMI02",
-    "semestre": "3",
+    "semester": "3",
     "ueName": "UE_ENTREPRENDRE",
     "coeff": 4
   },
   {
     "name": "R314 Déploiement de services",
     "promo": "MMI02",
-    "semestre": "3",
+    "semester": "3",
     "ueName": "UE_ENTREPRENDRE",
     "coeff": 4
   },
   {
     "name": "R316 Gestion de projet",
     "promo": "MMI02",
-    "semestre": "3",
+    "semester": "3",
     "ueName": "UE_ENTREPRENDRE",
     "coeff": 1
   },
   {
     "name": "301 Concevoir et développer une expérience utilisateur",
     "promo": "MMI02",
-    "semestre": "3",
+    "semester": "3",
     "ueName": "UE-ENTREPRENDRE",
     "coeff": 5
   },
   {
     "name": "302 Produire des contenus pour une communication plurimédia",
     "promo": "MMI02",
-    "semestre": "3",
+    "semester": "3",
     "ueName": "UE-ENTREPRENDRE",
     "coeff": 5
   },
   {
     "name": "R301 Anglais",
     "promo": "MMI02",
-    "semestre": "3",
+    "semester": "3",
     "ueName": "UE-ENTREPRENDRE",
     "coeff": 2
   },
   {
     "name": "R302 Anglais renforcé",
     "promo": "MMI02",
-    "semestre": "3",
+    "semester": "3",
     "ueName": "UE-ENTREPRENDRE",
     "coeff": 1
   },
   {
     "name": "R307 Expression communication et rhétorique",
     "promo": "MMI02",
-    "semestre": "3",
+    "semester": "3",
     "ueName": "UE-ENTREPRENDRE",
     "coeff": 3
   },
   {
     "name": "R316 Gestion de projet",
     "promo": "MMI02",
-    "semestre": "3",
+    "semester": "3",
     "ueName": "UE-ENTREPRENDRE",
     "coeff": 2
   },
   {
     "name": "R317 Éconameie, gestion et droit du numérique",
     "promo": "MMI02",
-    "semestre": "3",
+    "semester": "3",
     "ueName": "UE-ENTREPRENDRE",
     "coeff": 3
   },
   {
     "name": "R318 PPP",
     "promo": "MMI02",
-    "semestre": "3",
+    "semester": "3",
     "ueName": "UE-ENTREPRENDRE",
     "coeff": 2
-  }
+  },
     {
     "name": "R403 Design d'expérience",
     "promo": "MMI02",
-    "semestre": "4",
+    "semester": "4",
     "ueName": "UE_COMPRENDRE",
     "coeff": 3
-  }
+  },
      {
     "name": "Stage",
     "promo": "MMI02",
-    "semestre": "4",
+    "semester": "4",
     "ueName": "UE_COMPRENDRE",
     "coeff": 1
-  }
+  },
        {
     "name": "Portfolio",
     "promo": "MMI02",
-    "semestre": "4",
+    "semester": "4",
     "ueName": "UE_COMPRENDRE",
     "coeff": 1
-  }
+  },
        {
     "name": "SAE 401 Développer pour le web",
     "promo": "MMI02",
-    "semestre": "4",
+    "semester": "4",
+    "ueName": "UE_COMPRENDRE",
+    "coeff": 1
+  },
+         {
+    "name": "SAE 401 Développer pour le web",
+    "promo": "MMI02",
+    "semester": "4",
     "ueName": "UE_COMPRENDRE",
     "coeff": 1
   }
