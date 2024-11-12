@@ -808,7 +808,154 @@
     "name": "SAE 401 Développer pour le web",
     "promo": "MMI02",
     "semester": "4",
-    "ueName": "UE_COMPRENDRE",
+    "ueName": "UE_CONCEVOIR",
     "coeff": 1
+  }
+  {
+    "name": "Portfolio",
+    "promo": "MMI02",
+    "semester": "4",
+    "ueName": "UE_CONCEVOIR",
+    "coeff": 1
+  },
+  {
+    "name": "Stage",
+    "promo": "MMI02",
+    "semester": "4",
+    "ueName": "UE_CONCEVOIR",
+    "coeff": 1
+  },
+  {
+    "name": "R403 Design d'expérience",
+    "promo": "MMI02",
+    "semester": "4",
+    "ueName": "UE_CONCEVOIR",
+    "coeff": 3
+  },
+  {
+    "name": "SAE 402 Concevoir un dispositif interactif",
+    "promo": "MMI02",
+    "semester": "4",
+    "ueName": "UE_EXPRIMER",
+    "coeff": 3
+  },
+  {
+    "name": "Portfolio",
+    "promo": "MMI02",
+    "semester": "4",
+    "ueName": "UE_EXPRIMER",
+    "coeff": 1
+  },
+  {
+    "name": "Stage",
+    "promo": "MMI02",
+    "semester": "4",
+    "ueName": "UE_EXPRIMER",
+    "coeff": 1
+  },
+  {
+    "name": "R405 Création et disign interractif",
+    "promo": "MMI02",
+    "semester": "4",
+    "ueName": "UE_EXPRIMER",
+    "coeff": 3
+  },
+  {
+    "name": "R401 Anglais",
+    "promo": "MMI02",
+    "semester": "4",
+    "ueName": "UE_EXPRIMER",
+    "coeff": 3
+  },
+  {
+    "name": "SAE 401 Développer pour le web",
+    "promo": "MMI02",
+    "semester": "4",
+    "ueName": "UE_DEVELOPPER",
+    "coeff": 6
+  },
+  {
+    "name": "SAE 402 Concevoir un dispositif interractif",
+    "promo": "MMI02",
+    "semester": "4",
+    "ueName": "UE_DEVELOPPER",
+    "coeff": 6
+  },
+  {
+    "name": "Portfolio",
+    "promo": "MMI02",
+    "semester": "4",
+    "ueName": "UE_DEVELOPPER",
+    "coeff": 1
+  },
+  {
+    "name": "Stage",
+    "promo": "MMI02",
+    "semester": "4",
+    "ueName": "UE_DEVELOPPER",
+    "coeff": 4
+  },
+  {
+    "name": "R406 Dév Front",
+    "promo": "MMI02",
+    "semester": "4",
+    "ueName": "UE_DEVELOPPER",
+    "coeff": 3
+  },
+  {
+    "name": "R407 Dév Back",
+    "promo": "MMI02",
+    "semester": "4",
+    "ueName": "UE_DEVELOPPER",
+    "coeff": 4
+  },
+  {
+    "name": "R408 Déploiement de services",
+    "promo": "MMI02",
+    "semester": "4",
+    "ueName": "UE_DEVELOPPER",
+    "coeff": 2
+  },
+  {
+    "name": "SAE 401 Développer pour le web",
+    "promo": "MMI02",
+    "semester": "4",
+    "ueName": "UE_ENTREPRENDRE",
+    "coeff": 3
+  },
+  {
+    "name": "Portfolio",
+    "promo": "MMI02",
+    "semester": "4",
+    "ueName": "UE_ENTREPRENDRE",
+    "coeff": 1
+  },
+  {
+    "name": "Stage",
+    "promo": "MMI02",
+    "semester": "4",
+    "ueName": "UE_ENTREPRENDRE",
+    "coeff": 2
+  },
+  {
+    "name": "R401 Anglais",
+    "promo": "MMI02",
+    "semester": "4",
+    "ueName": "UE_ENTREPRENDRE",
+    "coeff": 2
+  },
+  {
+    "name": "R402 Economie gestion et droit du numérique",
+    "promo": "MMI02",
+    "semester": "4",
+    "ueName": "UE_ENTREPRENDRE",
+    "coeff": 3
+  },
+  {
+    "name": "R404 Expression communication",
+    "promo": "MMI02",
+    "semester": "4",
+    "ueName": "UE_ENTREPRENDRE",
+    "coeff": 3
   }
 ]
