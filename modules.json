@@ -42,7 +42,7 @@
     "coeff": 1
   },
   {
-    "name": "R.116 Econameie des droits du numérique",
+    "name": "R.116 Economie des droits du numérique",
     "promo": "MMI01",
     "semester": "1",
     "ueName": "UE_COMPRENDRE",
@@ -82,62 +82,6 @@
     "semester": "1",
     "ueName": "UE_CONCEVOIR",
     "coeff": 3
-  },
-  {
-    "name": "R.106 Projet de Communication Numérique",
-    "promo": "MMI01",
-    "semester": "1",
-    "ueName": "UE_CONCEVOIR",
-    "coeff": 6
-  },
-  {
-    "name": "R.107 Projet de Communication Numérique",
-    "promo": "MMI01",
-    "semester": "1",
-    "ueName": "UE_CONCEVOIR",
-    "coeff": 6
-  },
-  {
-    "name": "R.108 Projet de Communication Numérique",
-    "promo": "MMI01",
-    "semester": "1",
-    "ueName": "UE_CONCEVOIR",
-    "coeff": 6
-  },
-  {
-    "name": "R.110 Projet de Communication Numérique",
-    "promo": "MMI01",
-    "semester": "1",
-    "ueName": "UE_CONCEVOIR",
-    "coeff": 6
-  },
-  {
-    "name": "R.111 Projet de Communication Numérique",
-    "promo": "MMI01",
-    "semester": "1",
-    "ueName": "UE_CONCEVOIR",
-    "coeff": 6
-  },
-  {
-    "name": "R.112 Projet de Communication Numérique",
-    "promo": "MMI01",
-    "semester": "1",
-    "ueName": "UE_CONCEVOIR",
-    "coeff": 6
-  },
-  {
-    "name": "R.113 Projet de Communication Numérique",
-    "promo": "MMI01",
-    "semester": "1",
-    "ueName": "UE_CONCEVOIR",
-    "coeff": 6
-  },
-  {
-    "name": "R.115 Projet de Communication Numérique",
-    "promo": "MMI01",
-    "semester": "1",
-    "ueName": "UE_CONCEVOIR",
-    "coeff": 6
   },
   {
     "name": "R.106 Expression, Communication et Rhétorique",
@@ -206,28 +150,28 @@
     "name": "SAE.105 Produire un site Web",
     "promo": "MMI01",
     "semester": "1",
-    "ueName": "UE_ENTREPRENDRE",
+    "ueName": "UE_DEVELOPPER",
     "coeff": 12
   },
   {
     "name": "R.111 Intégration",
     "promo": "MMI01",
     "semester": "1",
-    "ueName": "UE_ENTREPRENDRE",
+    "ueName": "UE_DEVELOPPER",
     "coeff": 5
   },
   {
     "name": "R.112 Developpement Web",
     "promo": "MMI01",
     "semester": "1",
-    "ueName": "UE_ENTREPRENDRE",
+    "ueName": "UE_DEVELOPPER",
     "coeff": 4
   },
   {
     "name": "R.113 Hébergement ",
     "promo": "MMI01",
     "semester": "1",
-    "ueName": "UE_ENTREPRENDRE",
+    "ueName": "UE_DEVELOPPER",
     "coeff": 3
   },
   {
@@ -287,7 +231,7 @@
     "coeff": 4
   },
   {
-    "name": "R.203 Ergonameie et accessibilité",
+    "name": "R.203 Ergonomie et accessibilité",
     "promo": "MMI01",
     "semester": "2",
     "ueName": "UE_COMPRENDRE",
@@ -416,56 +360,56 @@
     "name": "SAE.202 Concevoir un produit ou un service et sa communication",
     "promo": "MMI01",
     "semester": "2",
-    "ueName": "UE_ENTREPRENDRE",
+    "ueName": "UE_DEVELOPPER",
     "coeff": 2
   },
   {
     "name": "SAÉ 203 _ Site Web et BDD",
     "promo": "MMI01",
     "semester": "2",
-    "ueName": "UE_ENTREPRENDRE",
+    "ueName": "UE_DEVELOPPER",
     "coeff": 10
   },
   {
     "name": "R.211 Gestion de contenus",
     "promo": "MMI01",
     "semester": "2",
-    "ueName": "UE_ENTREPRENDRE",
+    "ueName": "UE_DEVELOPPER",
     "coeff": 2
   },
   {
     "name": "R.212 Intégration",
     "promo": "MMI01",
     "semester": "2",
-    "ueName": "UE_ENTREPRENDRE",
+    "ueName": "UE_DEVELOPPER",
     "coeff": 4
   },
   {
     "name": "R.213 Developpement Web",
     "promo": "MMI01",
     "semester": "2",
-    "ueName": "UE_ENTREPRENDRE",
+    "ueName": "UE_DEVELOPPER",
     "coeff": 4
   },
   {
     "name": "R.214 Système d'information",
     "promo": "MMI01",
     "semester": "2",
-    "ueName": "UE_ENTREPRENDRE",
+    "ueName": "UE_DEVELOPPER",
     "coeff": 3
   },
   {
     "name": "R.215 Hébergement ",
     "promo": "MMI01",
     "semester": "2",
-    "ueName": "UE_ENTREPRENDRE",
+    "ueName": "UE_DEVELOPPER",
     "coeff": 3
   },
   {
     "name": "Portfolio",
     "promo": "MMI01",
     "semester": "2",
-    "ueName": "UE_ENTREPRENDRE",
+    "ueName": "UE_DEVELOPPER",
     "coeff": 1
   },
   {
@@ -497,7 +441,7 @@
     "coeff": 3
   },
   {
-    "name": "R.218 Econameie des droits du numérique ",
+    "name": "R.218 Economie des droits du numérique ",
     "promo": "MMI01",
     "semester": "2",
     "ueName": "UE_ENTREPRENDRE",
