@@ -901,5 +901,131 @@
     "semester": "4",
     "ueName": "UE_ENTREPRENDRE",
     "coeff": 3
+  },
+  {
+    "name": "SAE 501 Développer pour le web ou Concevoir un dispositif interactif",
+    "promo": "MMI03",
+    "semester": "5",
+    "ueName": "UE_DEVELOPPER",
+    "coeff": 38
+  },
+  {
+    "name": "R501 Anglais",
+    "promo": "MMI03",
+    "semester": "5",
+    "ueName": "UE_DEVELOPPER",
+    "coeff": 2
+  },
+  {
+    "name": "R505 Développement Front Avancé",
+    "promo": "MMI03",
+    "semester": "5",
+    "ueName": "UE_DEVELOPPER",
+    "coeff": 10
+  },
+  {
+    "name": "R506 Développement back avancé",
+    "promo": "MMI03",
+    "semester": "5",
+    "ueName": "UE_DEVELOPPER",
+    "coeff": 10
+  },
+  {
+    "name": "R507 Dispositifs interactifs",
+    "promo": "MMI03",
+    "semester": "5",
+    "ueName": "UE_DEVELOPPER",
+    "coeff": 10
+  },
+  {
+    "name": "R508 Hebergement et cybersécurité",
+    "promo": "MMI03",
+    "semester": "5",
+    "ueName": "UE_DEVELOPPER",
+    "coeff": 8
+  },
+  {
+    "name": "SAE 501 Développer pour le web ou Concevoir un dispositif interactif",
+    "promo": "MMI03",
+    "semester": "5",
+    "ueName": "UE_ENTREPRENDRE",
+    "coeff": 12
+  },
+  {
+    "name": "R501 Anglais",
+    "promo": "MMI03",
+    "semester": "5",
+    "ueName": "UE_ENTREPRENDRE",
+    "coeff": 2
+  },
+  {
+    "name": "R502 Management et Assurance qualite",
+    "promo": "MMI03",
+    "semester": "5",
+    "ueName": "UE_ENTREPRENDRE",
+    "coeff": 3
+  },
+  {
+    "name": "R503 Entrepreneuriat",
+    "promo": "MMI03",
+    "semester": "5",
+    "ueName": "UE_ENTREPRENDRE",
+    "coeff": 3
+  },
+  {
+    "name": "R504 Projet Personnel et Professionnel",
+    "promo": "MMI03",
+    "semester": "5",
+    "ueName": "UE_ENTREPRENDRE",
+    "coeff": 4
+  },
+  {
+    "name": "Portfolio",
+    "promo": "MMI03",
+    "semester": "6",
+    "ueName": "UE_DEVELOPPER",
+    "coeff": 6
+  },
+  {
+    "name": "R602 Développement Web et dispositif interactif",
+    "promo": "MMI03",
+    "semester": "6",
+    "ueName": "UE_DEVELOPPER",
+    "coeff": 6
+  },
+  {
+    "name": "Stage | Alternance",
+    "promo": "MMI03",
+    "semester": "6",
+    "ueName": "UE_DEVELOPPER",
+    "coeff": 6
+  },
+  {
+    "name": "Portfolio",
+    "promo": "MMI03",
+    "semester": "6",
+    "ueName": "UE_ENTREPRENDRE",
+    "coeff": 5
+  },
+  {
+    "name": "R601 Entrepreunariat",
+    "promo": "MMI03",
+    "semester": "6",
+    "ueName": "UE_ENTREPRENDRE",
+    "coeff": 3
+  },
+  {
+    "name": "R602 Développement Web et dispositif interactif",
+    "promo": "MMI03",
+    "semester": "6",
+    "ueName": "UE_ENTREPRENDRE",
+    "coeff": 3
+  },
+  {
+    "name": "Stage | Alternance",
+    "promo": "MMI03",
+    "semester": "6",
+    "ueName": "UE_ENTREPRENDRE",
+    "coeff": 4
   }
 ]
