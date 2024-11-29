@@ -7,7 +7,7 @@
     "coeff": 8
   },
   {
-    "name": "R.103 Ergonameie et accessibilité",
+    "name": "R.103 Ergonomie et accessibilité",
     "promo": "MMI01",
     "semester": "1",
     "ueName": "UE_COMPRENDRE",
@@ -210,7 +210,7 @@
     "coeff": 3
   },
   {
-    "name": "R.116 Econameie, gestion et droit du numérique",
+    "name": "R.116 Economie, gestion et droit du numérique",
     "promo": "MMI01",
     "semester": "1",
     "ueName": "UE_ENTREPRENDRE",
@@ -364,7 +364,7 @@
     "coeff": 2
   },
   {
-    "name": "SAÉ 203 _ Site Web et BDD",
+    "name": "SAÉ 203 Site Web et BDD",
     "promo": "MMI01",
     "semester": "2",
     "ueName": "UE_DEVELOPPER",
@@ -665,14 +665,14 @@
     "coeff": 1
   },
   {
-    "name": "301 Concevoir et développer une expérience utilisateur",
+    "name": "SAE 301 Concevoir et développer une expérience utilisateur",
     "promo": "MMI02",
     "semester": "3",
     "ueName": "UE_ENTREPRENDRE",
     "coeff": 5
   },
   {
-    "name": "302 Produire des contenus pour une communication plurimédia",
+    "name": "SAE 302 Produire des contenus pour une communication plurimédia",
     "promo": "MMI02",
     "semester": "3",
     "ueName": "UE_ENTREPRENDRE",
@@ -798,7 +798,7 @@
     "coeff": 1
   },
   {
-    "name": "R405 Création et disign interractif",
+    "name": "R405 Création et disign interactif",
     "promo": "MMI02",
     "semester": "4",
     "ueName": "UE_EXPRIMER",
@@ -819,7 +819,7 @@
     "coeff": 6
   },
   {
-    "name": "SAE 402 Concevoir un dispositif interractif",
+    "name": "SAE 402 Concevoir un dispositif interactif",
     "promo": "MMI02",
     "semester": "4",
     "ueName": "UE_DEVELOPPER",
