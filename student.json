@@ -1184,7 +1184,7 @@
         "firstName": "RAPHAEL",
         "email": "raphael.cadete@edu.univ-eiffel.fr",
         "group": "TD2",
-        "tp": "B3.1/B3.2",
+        "tp": "B3.2",
         "promo": "MMI03"
     },
     {
@@ -1193,7 +1193,7 @@
         "firstName": "NOLAN",
         "email": "nolan.dalle-molle@edu.univ-eiffel.fr",
         "group": "TD1",
-        "tp": "B3.1/B3.2",
+        "tp": "B3.1",
         "promo": "MMI03"
     },
     {
@@ -1238,7 +1238,7 @@
         "firstName": "VALENTIN",
         "email": "valentin.fontaine@edu.univ-eiffel.fr",
         "group": "TD2",
-        "tp": "B3.1/B3.2",
+        "tp": "B3.2",
         "promo": "MMI03"
     },
     {
@@ -1274,7 +1274,7 @@
         "firstName": "REMY",
         "email": "remy.hamelin@edu.univ-eiffel.fr",
         "group": "TD1",
-        "tp": "B3.1/B3.2",
+        "tp": "B3.1",
         "promo": "MMI03"
     },
     {
@@ -1292,7 +1292,7 @@
         "firstName": "THOMAS",
         "email": "thomas.henry2@edu.univ-eiffel.fr",
         "group": "TD2",
-        "tp": "B3.1/B3.2",
+        "tp": "B3.2",
         "promo": "MMI03"
     },
     {
@@ -1427,7 +1427,7 @@
         "firstName": "ARTHUR",
         "email": "arthur.priam@edu.univ-eiffel.fr",
         "group": "TD1",
-        "tp": "B3.1/B3.2",
+        "tp": "B3.1",
         "promo": "MMI03"
     },
     {
@@ -1436,7 +1436,7 @@
         "firstName": "TOM",
         "email": "tom.prot@edu.univ-eiffel.fr",
         "group": "TD1",
-        "tp": "B3.1/B3.2",
+        "tp": "B3.1",
         "promo": "MMI03"
     },
     {
@@ -1445,7 +1445,7 @@
         "firstName": "RAYAN-AURELIEN",
         "email": "rayan-aurelien.rolet@edu.univ-eiffel.fr",
         "group": "TD1",
-        "tp": "B3.1/B3.2",
+        "tp": "B3.1",
         "promo": "MMI03"
     },
     {
@@ -1472,7 +1472,7 @@
         "firstName": "ROMAIN",
         "email": "romain.so@edu.univ-eiffel.fr",
         "group": "TD2",
-        "tp": "B3.1/B3.2",
+        "tp": "B3.2",
         "promo": "MMI03"
     },
     {
@@ -1481,7 +1481,7 @@
         "firstName": "INES",
         "email": "ines.temmar@edu.univ-eiffel.fr",
         "group": "TD1",
-        "tp": "B3.1/B3.2",
+        "tp": "B3.1",
         "promo": "MMI03"
     },
     {
@@ -1490,7 +1490,7 @@
         "firstName": "NICOLAS",
         "email": "nicolas.thieblemont@edu.univ-eiffel.fr",
         "group": "TD1",
-        "tp": "B3.1/B3.2",
+        "tp": "B3.1",
         "promo": "MMI03"
     },
     {
@@ -1508,7 +1508,7 @@
         "firstName": "CHRISTOPHER",
         "email": "christopher.tran@edu.univ-eiffel.fr",
         "group": "TD1",
-        "tp": "B3.1/B3.2",
+        "tp": "B3.1",
         "promo": "MMI03"
     }
 ]
